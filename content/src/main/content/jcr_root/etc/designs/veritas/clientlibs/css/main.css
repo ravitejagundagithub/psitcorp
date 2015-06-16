@@ -1457,7 +1457,7 @@ footer .content {
     .footer-assets a {
       font-size: 14px;
       line-height: 28px; } }
-/* 
+/*
 DevKit includes ONLY (header/footer/nav/breadcrumbs elements).
 When compiling to send to DEV, remove everything but the following:
   normalize
@@ -1658,7 +1658,7 @@ tr:nth-child(odd) td {
   padding: 5px 8px; }
 
 /* Buttons */
-button {
+.bg button {
   background-color: #75b1bd;
   padding: 8px 12px;
   color: #fff !important;
@@ -1810,7 +1810,7 @@ button {
         background-color: #b0151e;
         color: #fff; }
 
-/* 
+/*
 Item Groups consist of:
   Cards:
     A heading
