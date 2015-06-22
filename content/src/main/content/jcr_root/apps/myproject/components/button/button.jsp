@@ -10,4 +10,4 @@
 %><%
 String text = properties.get("text","Enter text here");
     %>
-            <button><%=text%></button>
+            <button> <%=text%></button>
