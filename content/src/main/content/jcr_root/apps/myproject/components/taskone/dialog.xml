@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Dialog"
     xtype="dialog">
     <items
@@ -19,35 +19,17 @@
                         jcr:primaryType="cq:Widget"
                         fieldLabel="bullet 1"
                         name="./text1"
-                        xtype="richtext">
-                        <rtePlugins jcr:primaryType="nt:unstructured">
-                            <edit
-                                jcr:primaryType="nt:unstructured"
-                                features="* (asterisk)"/>
-                        </rtePlugins>
-                    </text1>
+                        xtype="textarea"/>
                     <text2
                         jcr:primaryType="cq:Widget"
                         fieldLabel="bullet 2"
                         name="./text2"
-                        xtype="textarea">
-                        <rtePlugins jcr:primaryType="nt:unstructured">
-                            <edit
-                                jcr:primaryType="nt:unstructured"
-                                features="* (asterisk)"/>
-                        </rtePlugins>
-                    </text2>
+                        xtype="textarea"/>
                     <text3
                         jcr:primaryType="cq:Widget"
                         fieldLabel="bullet 3"
                         name="./text3"
-                        xtype="textarea">
-                        <rtePlugins jcr:primaryType="nt:unstructured">
-                            <edit
-                                jcr:primaryType="nt:unstructured"
-                                features="* (asterisk)"/>
-                        </rtePlugins>
-                    </text3>
+                        xtype="textarea"/>
                     <image
                         jcr:primaryType="cq:Widget"
                         fieldLabel="imagepath"
