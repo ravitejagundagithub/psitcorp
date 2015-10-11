@@ -26,23 +26,7 @@
     <div class="container">
      <div class="row margin_zero margin_top_twenty">
     <cq:include path="footeraboutus" resourceType="myproject/components/footeraboutus"/>
-<div class="col-md-4 col-sm-4 col-xs-12">
-    
-<h3><%=pageheading%></h3>
-
-    <div class="row margin_zero social_media">
-        <ul>
-            <li class="facebook_footer_icon"><a href="javascript:void(0);">&nbsp;</a>
-            </li>
-            <li class="twitter_footer_icon"><a href="javascript:void(0);">&nbsp;</a>
-            </li>
-            <li class="google_plus_footer_icon"><a href="javascript:void(0);">&nbsp;</a>
-            </li>
-            <li class="linkedin_footer_icon"><a href="javascript:void(0);">&nbsp;</a>
-            </li>
-        </ul>
-    </div>
-</div>
+ <cq:include path="socialmedia" resourceType="myproject/components/socialmedia"/>
 <div class="col-md-4 col-sm-4 col-xs-12">
     
 <h3><%=header%></h3>

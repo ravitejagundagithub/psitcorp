@@ -218,36 +218,36 @@
 	padding:0px;
 }
 #footer_bg .social_media .facebook_footer_icon a{
-	background-image:url(http://www.intellisofttech.com/wp-content/themes/intellisoft/images/facebook_footer_icon.png);
+
 	background-repeat:no-repeat;
 	background-position:center top;
 }
 #footer_bg .social_media .facebook_footer_icon a:hover{
-	background-image:url(../images/facebook_footer_icon_over.png);
+	
 }
 #footer_bg .social_media .twitter_footer_icon a{
-	background-image:url(http://www.intellisofttech.com/wp-content/themes/intellisoft/images/twitter_footer_icon.png);
+	
 	background-repeat:no-repeat;
 	background-position:center top;
 }
 #footer_bg .social_media .twitter_footer_icon a:hover{
-	background-image:url(../images/twitter_footer_icon_over.png);
+
 }
 #footer_bg .social_media .google_plus_footer_icon a{
-	background-image:url(http://www.intellisofttech.com/wp-content/themes/intellisoft/images/google_plus_footer_icon.png);
+	
 	background-repeat:no-repeat;
 	background-position:center top;
 }
 #footer_bg .social_media .google_plus_footer_icon a:hover{
-	background-image:url(../images/google_plus_footer_icon_over.png);
+	
 }
 #footer_bg .social_media .linkedin_footer_icon a{
-	background-image:url(http://www.intellisofttech.com/wp-content/themes/intellisoft/images/linkedin_footer_icon.png);
+	
 	background-repeat:no-repeat;
 	background-position:center top;
 }
 #footer_bg .social_media .linkedin_footer_icon a:hover{
-	background-image:url(../images/linkedin_footer_icon_over.png);
+	
 }
 
 #footer_bg .contact_detils{
