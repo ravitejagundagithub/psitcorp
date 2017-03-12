@@ -20,7 +20,7 @@ String image = properties.get("image","enter the image path");
 <!-- /hero -->
 <div class="content">
     <div class="hero">
-      <div class="text">
+      <div class="text">test hero
       </div>
       <div class="promo">
       </div>
