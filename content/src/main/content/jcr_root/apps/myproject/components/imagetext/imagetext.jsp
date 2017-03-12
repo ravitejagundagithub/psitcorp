@@ -14,7 +14,7 @@
 String text = properties.get("text","enter the text");
 %>
 <div class="txt">
-    <%=text%>
+    <%=text%> Test
     </div>
     <style>
     .txt{color:red;font-size:40px;}
