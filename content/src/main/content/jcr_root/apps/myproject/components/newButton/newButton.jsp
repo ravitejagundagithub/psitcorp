@@ -10,5 +10,5 @@
 %><%
 String text = properties.get("text","Enter text here");
     %>
-            <button> <%=text%></button>
+            <button> <%=text%> test</button>
 Sanjay Revathi Mahesan
