@@ -21,7 +21,7 @@
 					<header class="entry-header">
                       <div class="container">
 												<h1 class="entry-title"><%=pageheading%></h1>
-												<p> <%=text%> </p>
+												<p> <%=text%>test </p>
                      </div>   
 					</header>		
 		</div>
